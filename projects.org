@@ -1,0 +1,6 @@
+#+TITLE: Project Ideas
+#+AUTHOR: SAAF
+
+* OS in Rust
+* Docker Runtime
+* Phoenix local analytics library

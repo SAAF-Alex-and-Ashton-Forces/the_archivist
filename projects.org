@@ -4,3 +4,5 @@
 * OS in Rust
 * Docker Runtime
 * Phoenix local analytics library
+* Emacs skin/stand-alone Org Editor for Mortals
+I see so many people who take notes in Word or Pages. Those are poor tools for note taking. Something like Notability is far superior. But for plebs who can't or won't, perhaps we could trick them into thinking that a fancy editor is the perfect note taking thing when it's really just—GASP!—Emacs!!

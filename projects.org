@@ -1,8 +1,13 @@
 #+TITLE: Project Ideas
 #+AUTHOR: SAAF
 
-* OS in Rust
-* Docker Runtime
-* Phoenix local analytics library
+* OS in Rust                                                           :rust:
+Why not?
+* Docker Runtime                                                       :rust:
+Also maybe Rust
+* Phoenix local analytics library                              :elixir:short:
 * Emacs skin/stand-alone Org Editor for Mortals
 I see so many people who take notes in Word or Pages. Those are poor tools for note taking. Something like Notability is far superior. But for plebs who can't or won't, perhaps we could trick them into thinking that a fancy editor is the perfect note taking thing when it's really just—GASP!—Emacs!!
+* Scheme Compiler
+* Yap Clone                                                    :elixir:short:
+https://yap.chat/

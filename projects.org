@@ -3,11 +3,20 @@
 
 * OS in Rust                                                           :rust:
 Why not?
+
 * Docker Runtime                                                       :rust:
 Also maybe Rust
+
 * Phoenix local analytics library                              :elixir:short:
+I would love to have simple site analytics be as simple as requiring an elixir module. Something kind of like goat counter. The nice thing with an integrated solution like this is that browsers and firewalls like little snitch would not freak out because we would be pinging some external service.
+
 * Emacs skin/stand-alone Org Editor for Mortals
 I see so many people who take notes in Word or Pages. Those are poor tools for note taking. Something like Notability is far superior. But for plebs who can't or won't, perhaps we could trick them into thinking that a fancy editor is the perfect note taking thing when it's really just—GASP!—Emacs!!
+
 * Scheme Compiler
+
 * Yap Clone                                                    :elixir:short:
 https://yap.chat/
+
+* Git clone                                                            :rust:
+I'd love to learn more about how Git works. Let's write Git in Rust!

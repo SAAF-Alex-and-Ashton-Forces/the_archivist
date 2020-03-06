@@ -20,3 +20,7 @@ https://yap.chat/
 
 * Git clone                                                            :rust:
 I'd love to learn more about how Git works. Let's write Git in Rust!
+
+* Rust-like language with Lisp syntax
+
+I'd love to try writing an affine type checker. Memory management would be cool.

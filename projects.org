@@ -1,6 +1,8 @@
 #+TITLE: Project Ideas
 #+AUTHOR: SAAF
 
+* Email-like comms based off of Matrix
+
 * OS in Rust                                                           :rust:
 Why not?
 
